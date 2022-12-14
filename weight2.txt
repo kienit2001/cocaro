@@ -1,0 +1,9 @@
+n112xon111|8,8 8,6 
+n84on13xn13xon111|7,6 7,5 
+n84on11ox2n13xon111|7,5 
+n67on14xnon11ox2n13xon111|6,4 
+n66xon14xnon11ox2n13xo2n110|9,6 6,8 
+n66xon14xnon11ox2n13xo2n11xn13on84|9,6 
+n66xon14xnon11ox3on11xo2n11xn13on84|7,9 
+n66xon14xnon11ox3on11xo2n11xon12onxn82|5,7 
+n66xon14xnon9onox3on9xnxo2n11xon12onxn82|6,7 

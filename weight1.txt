@@ -1,0 +1,5 @@
+n112xon111|8,8 8,6 7,8 7,6 
+n96on15xon14xn96|9,9 
+n96on15xon14xn15xn15on64|7,9 
+n96on15xon14xn13xoxn15on64|7,8 
+n96on15xon12ox2n13xoxn15on64|7,10 7,6 
