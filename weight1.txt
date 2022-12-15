@@ -3,3 +3,931 @@ n96on15xon14xn96|9,9
 n96on15xon14xn15xn15on64|7,9 
 n96on15xon14xn13xoxn15on64|7,8 
 n96on15xon12ox2n13xoxn15on64|7,10 7,6 
+n96on15xn112|8,6 7,6 6,8 6,7 
+n96on15xn13xn13on84|8,6 
+n84on11onxn13xn13xn13on84|8,7 7,8 
+n84on11onxn13x2n12xnon11on84|9,7 
+n84on11onxn13x3on10xnon11on84|6,7 
+n84on11onxn11ox4on10xnon11on84|7,5 
+n66on15xnon11onxn11ox4on10xnon11on84|10,8 
+n66on15xnon11onxn11ox4on10xnonxn9on5on78|7,6 
+n66o2n14xnon11ox2n11ox4on10xnonxn9on5on78|7,8 
+n66o2n14xnon11ox2n11ox4on10x2onxn9onon3on78|6,9 
+n66o2n14xnon11ox2n11ox4on10x2onxn9oxon3on8on69|5,8 
+n66o2n14xo2n11ox2n11ox4on9x3onxn9oxon3on8on69|9,6 
+n66o2n14xo3n10ox3n10ox4on9x3onxn9oxon3on8on69|6,10 
+n66o2n14xo3n10ox3n10ox4on9x3onxn9oxon3on8oxn14on53|4,9 4,8 
+n66o2n14xo3n10ox3n10ox4on7ox4onxn9oxon3on8oxn14on53|4,9 
+n66o2n14xo3n10ox3n10ox4on7ox4onxn8xoxon3on6onoxn14on53|10,6 
+n66o2n14xo3n10ox4on8ox4on7ox4onxn8xoxon3on6onoxn14on53|4,7 
+n66o2n14xo3n8onox4on7xox4on7ox4onxn8xoxon3on6onoxn14on53|7,10 3,6 
+n66o2n14xo3n7o2nox4on7xox4on7ox4onxn8xoxon3on6onox2n13on53|8,11 
+n112xn15on96|8,7 8,6 7,8 6,8 
+n98on13xn13xnon96|8,7 
+n98on12ox2n12xnon96|9,7 
+n98on12ox3on10xnon96|7,8 
+n98o2n11ox3on10x2on96|7,6 
+n82on14xo2n11ox3on10x2on96|7,9 
+n82on14xo2n11ox3on10x2on13xn14on67|9,8 8,10 6,5 5,7 
+n82on14xo2n10o2x3on10x2on13xn14oxn66|9,11 
+n82on14xo2n10o2x3on10x2on13xn14oxn15xn15on34|6,5 
+n81xon14xo2n10o2x3on10x2o2n12xn14oxn15xn15on34|5,4 
+n49on15xn15xon14xo2n10o2x3on10x2o2n12xn14oxn15xn15on34|8,9 
+n49on15xn15xon14xo2n10o2x3on10x2o2n12x2non11oxn15xn15on34|6,9 
+n49on15xn15xon14xo2n10o2x3on10x2o2n10ox3non11oxn15xn15on34|5,10 
+n49on15xn15xon14xo2n10o2x3on10x2o2n10ox3non9xnoxn10on4xn15on34|8,11 
+n49on15xn15xon14xo2n10o2x3on10x2o2n10ox3non9xnoxn10ononx2n15on34|8,12 
+n49on15xn15xon14xo2n10o2x3on10x2o2n10ox3non9xnoxn10ononx2n13xnon12on21|10,10 
+n49on15xn15xon14xo2n10o2x3on10x2o2n10ox3no2n8xnoxnxn8ononx2n13xnon12on21|7,13 
+n49on15xn15xon14xo2n10o2x3on10x2o2n10ox3no2n8xnoxnxn8ononx2n13xnon11xon12on8|9,10 
+n49on15xn15xon14xo2n10o2x3on10x2o2non8ox3no2n8xnox3n8ononx2n13xnon11xon12on8|11,10 
+n49on15xn15xon14xo2n10o2x3on10x2o2non8ox3no2n8xnox4on6ononx2n13xnon11xon12on8|10,11 
+n49on15xn15xon14xo2n10o2x3on10x2o2non8ox3no2n8xnox4on6ononx3on11xnon11xon12on8|11,12 
+n112xn112|5,5 5,7 5,9 6,6 6,7 6,8 7,5 7,6 7,8 7,9 8,6 8,7 8,8 9,5 9,7 9,9 
+n112xon25xn85|7,6 
+n97on14xon25xn85|5,9 
+n97on14xon25x2n84|6,5 9,8 
+n81on15on14xon25x2n84|10,9 9,8 5,4 
+n65xn15on15on14xon25x2n84|9,8 
+n65xn15on15on14xon15on9x2n84|10,9 
+n65xn15on15on14xon15on9x2n4xn79|8,9 
+n65xn15on15on14xon15on9x2n2onxn79|6,8 
+n65xn15on15on14xon12xn2on9x2n2onxn79|8,6 
+n65xn15on15o2n13xon12xn2on9x2n2onxn79|4,10 
+n65xn15on15o2n13xon12xn2on9x2n2onxn8xn70|3,11 
+n65xn15on15o2n13xon12xn2on9x2n2onxn8xn13on56|8,8 
+n65xn15on15o2n13xon12xnxon9x2n2onxn8xn13on56|6,6 
+n65xn15on14o3n13xon12xnxon9x2n2onxn8xn13on56|10,6 
+n65xn15on14o3nxn11xon12xnxon9x2n2onxn8xn13on56|5,6 
+n65xn15on13o4nxn11xon12xnxon9x2n2onxn8xn13on56|9,6 
+n65xn15on13o4x2n11xon12xnxon9x2n2onxn8xn13on56|4,6 
+n112xn14on97|8,8 8,7 6,8 6,7 
+n111x2n14on97|8,7 
+n111x2on13on97|5,7 
+n110x3on13on97|4,7 
+n109ox3on13on97|6,8 
+n109ox3on12xon97|6,9 
+n109ox3on12xon13on83|10,5 9,6 
+n85xn23ox3on12xon13on83|5,10 
+n85xn23ox3on12xon13on13on69|9,6 
+n85xn13xn9ox3on12xon13on13on69|4,11 
+n99on12xn112|8,7 8,6 7,8 7,6 6,6 
+n99on12xn14xn97|7,4 7,6 
+n97onon12xn14xn97|8,6 
+n97oxon12xn14xn97|9,5 
+n84on12oxon12xn14xn97|6,8 
+n84on12oxon12xn13x2n97|4,10 5,9 
+n84on12oxon12xn13x2n26on70|8,8 
+n84on12oxon12xn13x3n25on70|9,8 
+n84on12oxon12xn13x3on24on70|9,7 
+n84on12oxon12xnxn11x3on24on70|8,7 
+n84on12oxon12xoxn11x3on24on70|5,8 
+n84on12oxon12xoxn10x4on24on70|4,8 
+n84on12oxon12xoxn9ox4on24on70|7,9 
+n84on12oxon12xoxn9ox4on12xn11on70|10,9 
+n84on12oxon12xoxn9ox4on12xn2on8on70|6,5 
+n81xn2on12oxon12xoxn9ox4on12xn2on8on70|11,10 
+n98on13xn112|8,8 8,7 7,6 6,6 
+n98on13xn15xn96|6,6 
+n96onon13xn15xn96|7,6 
+n96oxon13xn15xn96|7,5 
+n82on13oxon13xn15xn96|7,8 
+n82on13oxon13xn14x2n96|7,9 
+n82on13oxon13xn14x2n13on82|9,8 6,8 
+n82on13oxon13xn13x3n13on82|4,8 10,8 
+n82on13oxon13xn11onx3n13on82|9,8 
+n82on13oxon13xn11onx4n12on82|10,8 
+n82on13oxon13xn11onx4on11on82|5,8 
+n112xn16on95|8,8 8,7 7,8 7,6 6,8 
+n112xn13xn2on95|4,10 5,9 8,6 
+n112xn13xn2on24on70|8,6 5,9 
+n98xn13xn13xn2on24on70|10,4 
+n70on27xn13xn13xn2on24on70|9,5 
+n70on13xn13xn13xn13xn2on24on70|5,9 
+n70on13xn13xn13xn13xn2on10on13on70|7,5 6,6 
+n70on13xn11xnxn13xn13xn2on10on13on70|6,10 
+n70on13xn11xnxn13xn13xn2on10on13onon68|7,6 
+n70on13xn11x3n13xn13xn2on10on13onon68|10,6 
+n70on13xn11x3non11xn13xn2on10on13onon68|5,6 
+n70on13xn10x4non11xn13xn2on10on13onon68|9,6 
+n70on13xn10x4o2n11xn13xn2on10on13onon68|4,6 
+n97xn14xon111|7,8 
+n97xn14xon13on97|7,5 
+n82xn14xn14xon13on97|7,4 
+n67on14xn14xn14xon13on97|8,6 
+n67on14xn14x2n13xon13on97|9,6 
+n67on14xn14x2on12xon13on97|6,9 5,10 
+n67on14xn14x2on12xon13on27xn69|10,5 
+n67on14xn2on11x2on12xon13on27xn69|6,9 
+n67on14xn2on11x2on12xon13on13xn13xn69|11,4 
+n97on14xn112|8,7 8,6 6,7 6,6 
+n97on13x2n112|8,7 
+n97on13x2on111|5,7 
+n97on12x3on111|4,7 
+n97on11ox3on111|6,6 
+n96xon11ox3on111|6,5 
+n81on14xon11ox3on111|10,9 9,8 
+n81on14xon11ox3on15xn95|5,4 
+n65on15on14xon11ox3on15xn95|4,3 
+n49xn15on15on14xon11ox3on15xn95|5,6 
+n49xn15on15on13oxon11ox3on15xn95|7,4 
+n49xn15onxn13on13oxon11ox3on15xn95|3,8 
+n49xn15onxn13on13oxon11ox3on9on5xn95|2,9 
+n49xn15onxn13on13oxon11ox3on9on5xn7xn87|5,5 
+n49xn15onxn12o2n13oxon11ox3on9on5xn7xn87|5,3 
+n49x2n14onxn12o2n13oxon11ox3on9on5xn7xn87|4,5 
+n49x2n14onxn11o3n13oxon11ox3on9on5xn7xn87|7,5 
+n49x2n14onxn11o3xn12oxon11ox3on9on5xn7xn87|3,5 
+n49x2n14onxn10o4xn12oxon11ox3on9on5xn7xn87|2,5 
+n49x2n14onxn9xo4xn12oxon11ox3on9on5xn7xn87|3,6 
+n49x2n14onxn9xo4xn10onoxon11ox3on9on5xn7xn87|4,8 
+n49x2n14onxn9xo4xn10onoxon11ox3on9oxn4xn7xn87|3,9 
+n49x2n14onxn9xo4xn10onoxon11ox3on9oxn4xn7xon86|8,4 
+n84on27xn112|8,8 8,7 7,8 7,6 6,7 6,6 
+n84on27x2n111|9,7 
+n84on27x2on110|9,6 
+n84on14xn12x2on110|10,5 
+n84o2n13xn12x2on110|7,8 
+n84o2n13xn12x2on12xn97|5,10 6,9 
+n84o2n13xn12x2on12xn13on83|7,6 
+n84o2n11xnxn12x2on12xn13on83|7,5 
+n82ono2n11xnxn12x2on12xn13on83|8,5 
+n82oxo2n11xnxn12x2on12xn13on83|8,6 
+n82oxo2n11xoxn12x2on12xn13on83|7,9 
+n82oxo2n11xoxn12x2on12xn13oxn82|7,10 
+n82oxo2n11xoxn12x2on12xn13oxn14on67|6,7 
+n82oxo2n11xoxn11x3on12xn13oxn14on67|6,4 
+n66on15oxo2n11xoxn11x3on12xn13oxn14on67|10,8 
+n66on15oxo2n11xoxn11x3on12xn2xn10oxn14on67|5,3 
+n112xn55on56|8,6 
+n98xn13xn55on56|4,10 
+n98xn13xn41on13on56|9,5 
+n84xn13xn13xn41on13on56|5,9 
+n84xn13xn13xn27on13on13on56|10,4 
+n70xn13xn13xn13xn27on13on13on56|6,8 
+n70xn13xn13xn13xn13on13on13on13on56|11,3 
+n112xon12xn98|8,6 
+n98on13xon12xn98|8,8 
+n98on13xon12xnxn96|7,8 
+n98on13xon12xoxn96|6,6 
+n96xnon13xon12xoxn96|4,4 5,5 9,9 10,10 
+n96xnon13xon12xoxn15on80|5,5 
+n80xn15xnon13xon12xoxn15on80|4,4 
+n64on15xn15xnon13xon12xoxn15on80|6,7 
+n64on15xn15xnon12x2on12xoxn15on80|6,9 
+n64on15xn15xnon12x2on12xoxn12on2on80|6,5 
+n64on15x2n14xnon12x2on12xoxn12on2on80|6,4 
+n64onon13x2n14xnon12x2on12xoxn12on2on80|7,5 
+n64onon13x3n13xnon12x2on12xoxn12on2on80|9,6 
+n64onon13x3n13xno2n11x2on12xoxn12on2on80|5,10 
+n64onon13x3n13xno2n11x2on12xoxn12on2on10xn69|10,5 
+n79on32xn112|7,8 6,7 
+n79on31x2n112|4,7 
+n79on29onx2n112|8,7 5,7 
+n79on29ox3n112|8,7 9,7 
+n79on29ox3non110|6,8 6,6 
+n79on29ox3non11xn98|4,6 
+n79on14on14ox3non11xn98|4,8 
+n79on14on14ox3non9xnxn98|4,4 
+n64on14on14on14ox3non9xnxn98|4,3 
+n49xn14on14on14on14ox3non9xnxn98|6,6 
+n49xn14on14on14onon12ox3non9xnxn98|5,8 
+n49xn14on14on14onon12ox3non9x3n98|5,6 
+n49xn14on14on14o3n12ox3non9x3n98|7,8 
+n49xn14on14on14o3n12ox3non9x4n97|3,8 
+n49xn14on14on14o3n12ox3non8ox4n97|8,8 
+n84on27xn28xn83|9,6 10,5 
+n84o2n26xn28xn83|7,5 
+n82xno2n26xn28xn83|8,5 
+n82xo3n26xn28xn83|12,5 11,5 
+n82xo3xn25xn28xn83|9,4 
+n69on12xo3xn25xn28xn83|7,6 
+n69on12xo3xn10xn14xn28xn83|7,4 
+n67onon12xo3xn10xn14xn28xn83|7,8 
+n67onon12xo3xn10xn14xn14xn13xn83|7,9 
+n67onon12xo3xn10xn14xn14xn13xon82|5,10 
+n67onon12xo3xn10xn14xn14xn13xon12xn69|9,6 
+n67onon12xo3xn10xnon12xn14xn13xon12xn69|4,11 
+n67onon12xo3xn10xnon12xn14xn13xon12xn13xn55|8,7 
+n67onon12xo3xn10xnon12xon13xn13xon12xn13xn55|3,12 
+n50on61xn112|8,6 
+n50on47xn13xn112|5,9 6,8 9,5 10,4 
+n50on47xn13xn27on84|9,5 6,8 
+n50on47xn13xn13xn13on84|9,5 10,4 
+n50on33on13xn13xn13xn13on84|8,8 6,6 
+n50on33on13xn13xn13xnxn11on84|4,4 
+n50on13on19on13xn13xn13xnxn11on84|8,7 7,8 
+n50on13on19on13xn13x2n12xnxn11on84|8,5 
+n50on13on18o2n13xn13x2n12xnxn11on84|8,9 
+n50on13on18o2n13xn13x2n12xnxn11on2xn81|8,10 
+n50on13on18o2n13xn13x2n12xnxn11on2xn14on66|7,8 
+n50on13on18o2n13xn13x2n12x3n11on2xn14on66|4,8 5,8 10,8 
+n50on13on18o2n13xn13x2n12x3non9on2xn14on66|5,8 
+n50on13on18o2n13xn13x2n11x4non9on2xn14on66|4,8 
+n50on13on18o2n13xn13x2n10ox4non9on2xn14on66|9,8 
+n98on13x2n111|9,7 
+n98on13x2on110|6,7 
+n98on12x3on110|4,7 5,7 
+n98on10onx3on110|7,6 
+n97xon10onx3on110|7,5 
+n82on14xon10onx3on110|10,8 
+n82on14xon10onx3on15xn94|6,4 
+n66on15on14xon10onx3on15xn94|5,3 
+n50xn15on15on14xon10onx3on15xn94|6,5 
+n50xn15on14o2n14xon10onx3on15xn94|8,5 
+n50xn15on14o2xn13xon10onx3on15xn94|5,8 
+n50xn15on14o2xn13xon10onx3on10on4xn94|9,4 
+n50xn15on2xn11o2xn13xon10onx3on10on4xn94|10,3 
+n50xn4on10on2xn11o2xn13xon10onx3on10on4xn94|7,8 
+n50xn4on10on2xn11o2xn13xon10onx3on10onxn2xn94|7,10 
+n50xn4on10on2xn11o2xn13xon10onx3on10onxn2xn26on67|6,9 
+n50xn4on10on2xn11o2xn13xon10onx3on10onxn2xn10xn15on67|5,10 
+n50xn4on10on2xn11o2xn13xon10onx3on10onxn2xn10xn13onon67|9,6 
+n50xn4on10on2xn11o2xn13xoxn9onx3on10onxn2xn10xn13onon67|10,5 
+n50xn4on10on2xn11o2xnon11xoxn9onx3on10onxn2xn10xn13onon67|5,6 
+n50xn4on10on2xn11o2xnon9xnxoxn9onx3on10onxn2xn10xn13onon67|4,5 
+n50xn4on10on2xn9ono2xnon9xnxoxn9onx3on10onxn2xn10xn13onon67|8,9 
+n50xn4on10on2xn9ono2xnon9xnxoxn9onx3on10onxn2xn10xnxn11onon67|9,10 
+n50xn4on10on2xn9ono2xnon9xnxoxn9onx3on10onxn2xn10xnxn11ononon65|5,5 
+n50xn4on10on2xn9oxo2xnon9xnxoxn9onx3on10onxn2xn10xnxn11ononon65|8,10 
+n50xn4on10on2xn9oxo2xnon9xnxoxn9onx3on10onxn2xn10xnxn11ono3n65|6,10 
+n50xn4on10on2xn9oxo2xnon9xnxoxn9onx3on10onxn2xn10xnxn11oxo3n65|10,10 
+n50xn4on10on2xn9oxo2xnon9xnxoxn9onx3on10onxn2xn10xnxn11oxo4n64|11,10 
+n50xn4on10on2xn9oxo2xnon9xnxoxn9onx3on10onxn2xn10xnxn11oxo4xn63|5,4 
+n50xn4on9o2n2xn9oxo2xnon9xnxoxn9onx3on10onxn2xn10xnxn11oxo4xn63|6,8 
+n50xn4on9o2n2xn9oxo2xnon9xnxoxn9onx3on10ox2n2xn10xnxn11oxo4xn63|6,6 
+n50xn4on9o2n2xn9oxo2xnon9xoxoxn9onx3on10ox2n2xn10xnxn11oxo4xn63|6,11 
+n112xon43xn67|7,6 8,6 8,8 9,8 
+n97on14xon43xn67|7,8 
+n97on14xon13xn29xn67|9,8 
+n97on14xon13xnon27xn67|7,9 
+n97on14xon13xnon12xn14xn67|7,11 
+n97on14xon13xnon12xn14xn14on52|6,5 5,4 
+n81xn15on14xon13xnon12xn14xn14on52|10,9 
+n81xn15on14xon13xnon12xn2on11xn14on52|11,10 
+n81xn15on14xon13xnon12xn2on11xn3xn10on52|9,9 
+n81xn15on14xon13xnon12xno2n11xn3xn10on52|9,10 
+n81xn15on14xon13xnon12xno2n11xnxnxn10on52|8,10 
+n81xn15on14xon13xnon12xno2n11xoxnxn10on52|10,8 
+n81xn15on14xon13xnoxn11xno2n11xoxnxn10on52|6,12 
+n81xn15on14xon13xnoxn11xno2n11xoxnxn10on13on38|5,13 
+n81xn15on14xon13xnoxn11xno2n11xoxnxn10on13on13xn24|8,9 
+n81xn15on14xon13xnoxn11xo3n11xoxnxn10on13on13xn24|8,8 
+n81xn15on14xon13x2oxn11xo3n11xoxnxn10on13on13xn24|11,9 
+n81xn15on14xon13x2oxn11xo4n10xoxnxn10on13on13xn24|12,9 
+n81xn15on14xon13x2oxn11xo4xn9xoxnxn10on13on13xn24|9,7 
+n81xn15on14xo2n12x2oxn11xo4xn9xoxnxn10on13on13xn24|9,5 
+n81xn2xn12on14xo2n12x2oxn11xo4xn9xoxnxn10on13on13xn24|10,7 
+n81xn2xn12on14xo3n11x2oxn11xo4xn9xoxnxn10on13on13xn24|11,7 
+n81xn2xn12on14xo3xn10x2oxn11xo4xn9xoxnxn10on13on13xn24|11,6 
+n81xn2xn12on3on10xo3xn10x2oxn11xo4xn9xoxnxn10on13on13xn24|12,5 
+n81xn2xn2xn9on3on10xo3xn10x2oxn11xo4xn9xoxnxn10on13on13xn24|8,11 
+n81xn2xn2xn9on3on10xo3xn10x2oxn11xo4xn9xoxnxn10o2n12on13xn24|10,11 
+n81xn2xn2xn9on3on10xo3xn10x2oxn11xo4xn9xoxnxn10o2nxn10on13xn24|8,13 
+n81xn2xn2xn9on3on10xo3xn10x2oxn11xo4xn9xoxnxn10o2nxn10on13xn2on21|13,8 
+n81xn2xn2xn9on3on10xo3xn10x2oxn2xn8xo4xn9xoxnxn10o2nxn10on13xn2on21|8,12 
+n112xn27on84|8,8 8,7 7,8 7,6 6,7 6,6 
+n96xn15xn27on84|4,4 8,8 
+n64on31xn15xn27on84|5,5 
+n64on15xn15xn15xn27on84|8,8 
+n64on15xn15xn15xn15on11on84|7,5 
+n64on15xnxn13xn15xn15on11on84|7,9 
+n64on15xnxn13xn15xn15on11onon82|6,5 
+n64on15x3n13xn15xn15on11onon82|4,5 
+n64on14ox3n13xn15xn15on11onon82|8,5 
+n64on14ox4n12xn15xn15on11onon82|9,5 
+n64on14ox4on11xn15xn15on11onon82|6,4 
+n64onxn12ox4on11xn15xn15on11onon82|6,8 
+n64onxn12ox4on11xn15xn13onon11onon82|6,3 
+n51xn12onxn12ox4on11xn15xn13onon11onon82|6,7 
+n51xn12onxn12ox4on11xn14oxn13onon11onon82|6,2 
+n112xn15xon95|9,9 
+n112xn15xon14on80|9,7 
+n112xnxn13xon14on80|8,7 
+n112xoxn13xon14on80|7,9 
+n112xoxn13xon12xnon80|6,10 10,6 
+n112xoxn13xon12xnon11on68|10,6 
+n100xn11xoxn13xon12xnon11on68|11,5 
+n86on13xn11xoxn13xon12xnon11on68|7,8 
+n86on13xn11xoxn12x2on12xnon11on68|7,6 
+n86on10on2xn11xoxn12x2on12xnon11on68|7,10 
+n86on10on2xn11xoxn12x2on12xnon11oxn67|7,11 
+n86on10on2xn11xoxn12x2on12xnon11oxn14on52|6,5 5,4 
+n65xn20on10on2xn11xoxn12x2on12xnon11oxn14on52|10,9 
+n65xn20on10on2xn11xoxn12x2on12xno2n10oxn14on52|6,5 
+n65xn15xn4on10on2xn11xoxn12x2on12xno2n10oxn14on52|11,10 
+n98on13xn16xn95|7,6 8,7 9,7 
+n98on13xon15xn95|8,8 
+n98on13xon14x2n95|7,8 
+n98on13xon13ox2n95|9,9 
+n98on13xon13ox2n14xn80|9,6 
+n98o2n12xon13ox2n14xn80|6,6 
+n96xno2n12xon13ox2n14xn80|5,5 10,10 
+n80on15xno2n12xon13ox2n14xn80|10,10 
+n112xn44on67|8,8 8,7 8,6 6,8 6,7 6,6 
+n96xn15xn44on67|4,4 5,5 8,8 9,9 
+n96xn15xn31on12on67|8,8 5,5 
+n96xn15xn15xn15on12on67|4,4 5,5 
+n80on15xn15xn15xn15on12on67|8,6 6,8 
+n80on15xnxn13xn15xn15on12on67|8,9 8,10 
+n80on15xnxn13xn15xn14o2n12on67|6,8 
+n80on15xnxn13xn13xnxn14o2n12on67|9,8 
+n80on15xnxn13xn13xnxon13o2n12on67|9,5 5,9 
+n80on15xnxn13xn13xnxon10xn2o2n12on67|4,10 
+n80on15xnxn13xn13xnxon10xn2o2n9on2on67|9,5 
+n95xn2on13xn112|7,5 8,7 9,7 
+n95xn2on13xon111|8,8 
+n95xn2on13xon14xn96|8,5 
+n83on11xn2on13xon14xn96|8,4 
+n68xn14on11xn2on13xon14xn96|7,6 
+n68xn14on11xno2n13xon14xn96|6,6 
+n68xn14on11x2o2n13xon14xn96|4,4 
+n64on3xn14on11x2o2n13xon14xn96|9,9 
+n64on3xn14on11x2o2n13xon14xn15xn80|5,5 
+n64on3xn11on2on11x2o2n13xon14xn15xn80|10,10 
+n112xn10on101|7,8 6,8 
+n112xn10on2xn98|4,10 5,9 8,6 9,5 
+n112xn10on2xn13on84|8,6 
+n98xn13xn10on2xn13on84|9,5 10,4 
+n84on13xn13xn10on2xn13on84|6,6 
+n84on11xnxn13xn10on2xn13on84|4,9 
+n84on11xnxn13xn10on2xn12o2n84|7,6 6,7 
+n84on11x3n13xn10on2xn12o2n84|9,6 10,6 
+n84on11x3non11xn10on2xn12o2n84|5,6 
+n84on10x4non11xn10on2xn12o2n84|9,6 
+n84on10x4o2n11xn10on2xn12o2n84|4,6 
+n112xn73on38|6,8 
+n112xn13xn59on38|4,10 
+n112xn13xn27on31on38|8,6 5,9 
+n98xn13xn13xn27on31on38|9,5 10,4 
+n84on13xn13xn13xn27on31on38|6,6 
+n84on11xnxn13xn13xn27on31on38|5,11 
+n84on11xnxn13xn13xn27on15on15on38|8,8 7,6 6,7 
+n84on11x3n13xn13xn27on15on15on38|3,9 
+n84on11x3n13xn13xn11on15on15on15on38|7,13 
+n84on11x3n13xn13xn11on15on15on15on15xn22|2,8 
+n99on12xn28xn83|8,6 9,5 9,7 10,7 
+n99on12xnon26xn83|9,5 6,8 
+n84xn14on12xnon26xn83|8,6 
+n84xn13o2n12xnon26xn83|7,5 
+n82xnxn13o2n12xnon26xn83|7,6 
+n82xnxn12o3n12xnon26xn83|6,6 
+n82xnxn11xo3n12xnon26xn83|10,6 
+n82xnxn11xo4n11xnon26xn83|11,6 
+n82xnxn11xo4xn10xnon26xn83|8,8 
+n82xnxn11xo4xn10xnon13on12xn83|11,5 
+n82xnxnxn9xo4xn10xnon13on12xn83|7,9 
+n82xnxnxn9xo4xn10xnon13on12xon82|6,10 
+n82xnxnxn9xo4xn10xnon13on12xon13xn68|8,5 
+n82xoxnxn9xo4xn10xnon13on12xon13xn68|6,7 
+n82xoxnxn9xo4xn9x2non13on12xon13xn68|6,8 
+n82xoxnxn9xo4xn9x2non11onon12xon13xn68|8,7 
+n82xoxnxn9xo4xn9x3on11onon12xon13xn68|5,7 
+n82xoxnxn9xo4xn8ox3on11onon12xon13xn68|8,10 
+n82xoxnxn9xo4xn8ox3on11onon12xon13xnxn66|4,6 
+n82xoxnxn7onxo4xn8ox3on11onon12xon13xnxn66|3,5 
+n78xn3xoxnxn7onxo4xn8ox3on11onon12xon13xnxn66|7,8 10,7 
+n78xn3xoxnxn7onxo4xn8ox3o2n10onon12xon13xnxn66|11,8 
+n78xn3xoxnxn7onxo4xn8ox3o2n10onon2xn9xon13xnxn66|11,7 
+n78xn3xoxnxn7onxo4xn8ox3o3n9onon2xn9xon13xnxn66|12,7 
+n78xn3xoxnxn7onxo4xn8ox3o3xn8onon2xn9xon13xnxn66|7,4 
+n67on10xn3xoxnxn7onxo4xn8ox3o3xn8onon2xn9xon13xnxn66|6,3 
+n51xn15on10xn3xoxnxn7onxo4xn8ox3o3xn8onon2xn9xon13xnxn66|10,8 
+n51xn15on10xn3xoxnxn7onxo4xn8ox3o3xn8ononoxn9xon13xnxn66|10,5 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8ononoxn9xon13xnxn66|9,8 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8ono3xn9xon13xnxn66|7,8 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8oxo3xn9xon13xnxn66|9,9 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8oxo3xn9xonon11xnxn66|9,10 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8oxo3xn9xonon11xnx2n65|10,9 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8oxo3xn9xono2n10xnx2n65|10,10 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8oxo3xn9xono2n10xnx3n64|7,10 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8oxo3xn9xono2n10xox3n64|8,9 
+n51xn15on10xn3xox3n7onxo4xn8ox3o3xn8oxo3xn9xoxo2n10xox3n64|5,6 
+n51xn15on10xn3xox3n7o2xo4xn8ox3o3xn8oxo3xn9xoxo2n10xox3n64|10,11 
+n84on12xn14xn112|7,5 
+n82onon12xn14xn112|8,5 
+n82oxon12xn14xn112|9,4 
+n69on12oxon12xn14xn112|6,7 
+n69on12oxon12xn13x2n112|4,9 5,8 
+n69on12oxon12xn13x2n26on85|8,7 
+n69on12oxon12xn13x3n25on85|9,7 
+n69on12oxon12xn13x3on24on85|9,6 
+n69on12oxon12xnxn11x3on24on85|8,6 
+n69on12oxon12xoxn11x3on24on85|5,7 
+n69on12oxon12xoxn10x4on24on85|4,7 
+n69on12oxon12xoxn9ox4on24on85|7,8 
+n69on12oxon12xoxn9ox4on12xn11on85|10,8 
+n69on12oxon12xoxn9ox4on12xn2on8on85|6,4 
+n66xn2on12oxon12xoxn9ox4on12xn2on8on85|11,9 
+n64on47xn112|8,7 8,6 7,8 7,6 6,8 6,7 
+n64on33xn13xn112|5,9 6,8 9,5 10,4 
+n64on33xn13xn13on98|9,5 
+n64on19xn13xn13xn13on98|10,4 
+n64on5on13xn13xn13xn13on98|9,7 7,5 
+n64on5on13xn13xn13xnxn11on98|5,3 
+n50on13on5on13xn13xn13xnxn11on98|9,6 8,7 
+n50on13on5on13xn13x2n12xnxn11on98|9,4 
+n50on13on4o2n13xn13x2n12xnxn11on98|9,8 
+n50on13on4o2n13xn13x2n12xnxn11on2xn95|9,9 
+n50on13on4o2n13xn13x2n12xnxn11on2xn14on80|8,7 
+n50on13on4o2n13xn13x2n12x3n11on2xn14on80|5,7 6,7 
+n50on13on4o2n13xn13x2n10onx3n11on2xn14on80|10,7 
+n50on13on4o2n13xn13x2n10onx4n10on2xn14on80|6,7 
+n50on13on4o2n13xn13x2n10o2x4n10on2xn14on80|11,7 
+n112xn29on82|8,8 6,8 
+n112xn15xn13on82|9,9 
+n112xn15xn13onon80|8,9 
+n112xn15xn13oxon80|8,10 
+n112xn15xn13oxon13on66|8,7 
+n112x2n14xn13oxon13on66|8,6 
+n98on13x2n14xn13oxon13on66|9,7 6,7 
+n98on13x3n13xn13oxon13on66|5,7 
+n98on11onx3n13xn13oxon13on66|10,7 
+n98on11onx4n12xn13oxon13on66|11,7 
+n98on11onx4on11xn13oxon13on66|6,7 
+n66xn45xon111|8,6 
+n66xn31on13xon111|8,8 
+n66xn31on13xon14xn96|8,5 
+n66xn16on14on13xon14xn96|8,4 
+n66xnxn14on14on13xon14xn96|7,6 
+n66xnxn14on13o2n13xon14xn96|6,6 
+n66xnxn14on12xo2n13xon14xn96|4,4 
+n64onxnxn14on12xo2n13xon14xn96|9,9 
+n64onxnxn14on12xo2n13xon14xn15xn80|5,5 
+n64onxnxn11on2on12xo2n13xon14xn15xn80|10,10 
+n112xn2xn12on96|7,8 7,9 8,9 9,8 
+n112xn2xn12on14on81|8,7 
+n112x2nxn12on14on81|9,7 
+n112x2oxn12on14on81|6,7 
+n111x3oxn12on14on81|4,7 5,7 
+n109onx3oxn12on14on81|7,6 
+n97xn11onx3oxn12on14on81|7,9 
+n97xn11onx3oxn12on13o2n81|10,6 
+n97xn2xn8onx3oxn12on13o2n81|6,10 
+n97xn2xn8onx3oxn12on13o2n12on68|5,11 
+n97xn2xn8onx3oxn12on13o2n12on13xn54|6,9 
+n97xn2xn8onx3oxn12on12o3n12on13xn54|10,9 
+n97xn2xn8onx3oxn12on12o3nxn10on13xn54|5,9 
+n97xn2xn8onx3oxn12on11o4nxn10on13xn54|4,9 
+n97xn2xn8onx3oxn12on10xo4nxn10on13xn54|9,9 
+n112xn14on12xn84|6,8 
+n112xn13o2n12xn84|8,8 5,8 4,8 
+n112xn13o2xn11xn84|5,8 
+n112xn12o3xn11xn84|4,8 
+n112xn11xo3xn11xn84|6,7 6,9 
+n112xn11xo3xn11xon83|6,10 6,6 
+n112xn11xo3xn11xon14xn68|3,7 8,12 
+n108on3xn11xo3xn11xon14xn68|7,11 
+n108on3xn11xo3xn11xon14xn15xn52|8,12 
+n108on3xn11xo3xn11xon14xn15xn15on36|6,6 
+n96xn11on3xn11xo3xn11xon14xn15xn15on36|5,5 
+n80on15xn11on3xn11xo3xn11xon14xn15xn15on36|9,9 
+n80on15xn11on3xn11xo3xn11xon2xn11xn15xn15on36|10,10 
+n80on15xn11on3xn11xo3xn11xon2xn11xn3on11xn15on36|7,9 
+n80on15xn11on3xn11xo3xn11xoxnxn11xn3on11xn15on36|9,7 
+n80on15xn11on3xnon9xo3xn11xoxnxn11xn3on11xn15on36|5,11 
+n80on15xn11on3xnon9xo3xn11xoxnxn11xn3on9xnxn15on36|4,12 
+n80on15xn11on3xnon9xo3xn11xoxnxn11xn3on9xnxn11on3on36|8,10 
+n80on15xn11on3xnon9xo3xn11xoxnxn11xnxnon9xnxn11on3on36|10,8 
+n80on15xn11on3xnon9xo3xnon9xoxnxn11xnxnon9xnxn11on3on36|6,12 
+n80on15xn11on3xnon9xo3xnon9xoxnxn11xnxnon9xnxn11onxnon36|5,13 
+n80on15xn11on3xnon9xo3xnon9xoxnxn11xnxnon9xnxn11onxnon11on24|6,11 
+n80on15xn11on3xnon9xo3xnon9xoxnxn11xnxnon9x3n11onxnon11on24|9,11 
+n80on15xn11on3xnon9xo3xnon9xoxnxn11xnxnon9x3non9onxnon11on24|4,11 
+n80on15xn11on3xnon9xo3xnon9xoxnxn11xnxnon8x4non9onxnon11on24|8,11 
+n80on15xn11on3xnon9xo3xnon9xoxnxn11xnxnon8x4o2n9onxnon11on24|3,11 
+n82xn13on15xn112|7,6 
+n82xn13o2n14xn112|8,6 
+n82xn13o2xn13xn112|5,6 
+n82xn12o3xn13xn112|4,6 
+n82xn11xo3xn13xn112|6,5 6,7 
+n81oxn11xo3xn13xn112|6,8 6,4 
+n81oxn11xo3xn13xn13xn98|4,10 9,5 
+n81oxn11xo3xn13xn13xn27on70|9,5 
+n81oxnxn9xo3xn13xn13xn27on70|5,9 
+n81oxnxn9xo3xn13xn13xn13on13on70|10,4 
+n112xn9on102|6,8 
+n112xn9on3xn98|4,10 
+n112xn9on3xn27on70|8,6 5,9 
+n112xn9on3xn13xn13on70|8,6 9,5 
+n84on27xn9on3xn13xn13on70|7,9 5,7 
+n84on25xnxn9on3xn13xn13on70|3,9 
+n84on25xnxn9on3xn11onxn13on70|5,11 
+n84on25xnxn9on3xn11onxn13on15xn54|1,7 
+n84on21on3xnxn9on3xn11onxn13on15xn54|0,6 
+n84on5xn15on3xnxn9on3xn11onxn13on15xn54|5,10 
+n84on5xn15on3xnxn9on3xn11onxn13o2n14xn54|7,9 
+n84on5xn15on3xnxn9on3xn11onxnxn11o2n14xn54|6,10 
+n84on5xn15on3xnxn9on3xn11onxnxn11o3n13xn54|8,10 
+n84on5xn15on3xnxn9on3xn11onxnxn11o3nxn11xn54|4,6 
+n84on5xn3on11on3xnxn9on3xn11onxnxn11o3nxn11xn54|9,11 
+n80on31xn112|8,7 8,6 7,8 7,6 6,8 6,7 
+n80on31x2n111|5,7 
+n80on29onx2n111|9,7 6,7 
+n80on29ox3n111|9,7 10,7 
+n80on29ox3on110|7,8 7,6 
+n80on16xn12ox3on110|5,6 
+n80on14onxn12ox3on110|5,8 
+n80on14onxn12ox3on10xn99|5,4 
+n65on14on14onxn12ox3on10xn99|5,3 
+n50xn14on14on14onxn12ox3on10xn99|4,9 
+n50xn14on14on14onxn12ox3on10xn13on85|8,5 
+n50xn14on14on2xn11onxn12ox3on10xn13on85|9,4 
+n50xn14on3on10on2xn11onxn12ox3on10xn13on85|7,8 
+n50xn14on3on10on2xn11onxn12ox3on10xnxn11on85|7,4 
+n50xn14ononon10on2xn11onxn12ox3on10xnxn11on85|7,9 
+n50xn14ononon10on2xn11onxn12ox3on10xnxn11on2xn82|7,5 
+n50xn14ononon10onoxn11onxn12ox3on10xnxn11on2xn82|7,10 
+n112xn41on70|8,8 8,7 7,8 7,6 6,7 6,6 
+n111x2n41on70|5,7 8,7 9,7 
+n110ox2n41on70|8,7 
+n110ox3n40on70|9,7 10,7 
+n110ox3on39on70|7,8 7,6 
+n110ox3on12xn26on70|7,5 7,9 
+n110ox3on12xn14on11on70|8,9 6,9 
+n110ox3on12xn13xon11on70|9,6 
+n99on10ox3on12xn13xon11on70|5,10 
+n99on10ox3on12xn13xon11oxn69|4,11 
+n99on10ox3on12xn13xon11oxn13on55|6,8 
+n99on10ox3on11x2n13xon11oxn13on55|6,10 
+n99on10ox3on11x2n13xon11oxon12on55|8,8 
+n99on10ox3on11x3n12xon11oxon12on55|9,8 
+n99on10ox3on11x3on11xon11oxon12on55|6,6 
+n96xn2on10ox3on11x3on11xon11oxon12on55|6,5 
+n81on14xn2on10ox3on11x3on11xon11oxon12on55|9,9 
+n81on14xn2on10ox3on11x3on11xonxn9oxon12on55|5,5 
+n80o2n14xn2on10ox3on11x3on11xonxn9oxon12on55|10,10 
+n111oxn112|7,8 7,6 6,8 6,6 
+n111oxn13xn98|4,10 5,9 8,6 9,5 
+n84on26oxn13xn98|8,6 5,9 
+n84on26oxn13xn13xn84|4,10 
+n84on26oxn13xn13xn13on70|7,9 
+n84on26oxn13xn13xnxn11on70|4,9 7,8 
+n84on26oxn13xn12oxnxn11on70|7,8 
+n84on26oxn13x2n11oxnxn11on70|7,6 
+n84on12on13oxn13x2n11oxnxn11on70|5,8 
+n84on12on13oxn12x3n11oxnxn11on70|4,8 
+n84on12on13oxn11ox3n11oxnxn11on70|8,8 
+n84on12on13oxn11ox4n10oxnxn11on70|9,8 
+n84on12on13oxn11ox4on9oxnxn11on70|7,10 
+n84on12on13oxn11ox4on9oxnxn11on2xn67|7,11 
+n84on12on13oxn11ox4on9oxnxn11on2xn14on52|4,7 
+n84on12on11xnoxn11ox4on9oxnxn11on2xn14on52|4,11 
+n84on12on11xnoxn11ox4on9oxnxn11on2xn11on2on52|4,12 
+n84on12on11xnoxn11ox4on9oxnxn11on2xn11on2on11xn40|6,9 
+n84on12on11xnoxn11ox4on9oxoxn11on2xn11on2on11xn40|5,11 
+n84on12on11xnoxn11ox4on9oxoxn11on2xn11oxnon11xn40|6,10 
+n84on12on11xnoxn11ox4on9oxoxn11onoxn11oxnon11xn40|5,10 
+n84on12on11xnoxn11ox4on9oxoxn11oxoxn11oxnon11xn40|5,7 
+n84on12on11xo2xn11ox4on9oxoxn11oxoxn11oxnon11xn40|5,12 
+n112xn13on98|8,8 7,8 6,7 6,6 
+n111x2n13on98|5,7 
+n110ox2n13on98|8,7 
+n110ox3n12on98|9,7 10,7 
+n110ox3on11on98|7,8 
+n110ox3on11oxn97|7,9 
+n110ox3on11oxn14on82|4,6 
+n94xn15ox3on11oxn14on82|8,10 
+n94xn15ox3on11oxn14on15on66|9,11 
+n94xn15ox3on11oxn14on15on15xn50|8,8 
+n94xn15ox3on11oxon13on15on15xn50|6,10 
+n94xn15ox3on11oxon13on13xnon15xn50|10,6 
+n94xn5on9ox3on11oxon13on13xnon15xn50|11,5 
+n86xn7xn5on9ox3on11oxon13on13xnon15xn50|8,9 
+n86xn7xn5on9ox3on11oxon13o2n12xnon15xn50|8,11 
+n86xn7xn5on9ox3on11oxon13o2n12xnon14x2n50|9,9 
+n86xn7xn5on9ox3on11oxon13o3n11xnon14x2n50|6,9 
+n86xn7xn5on9ox3on11oxon12xo3n11xnon14x2n50|10,9 
+n86xn7xn5on9ox3on11oxon12xo4n10xnon14x2n50|11,9 
+n86xn7xn5on9ox3on11oxon12xo4xn9xnon14x2n50|10,8 
+n86xn7xn5on9ox3on11oxonon10xo4xn9xnon14x2n50|9,6 
+n86xn7xn4xon9ox3on11oxonon10xo4xn9xnon14x2n50|10,5 
+n85oxn7xn4xon9ox3on11oxonon10xo4xn9xnon14x2n50|5,10 
+n112xn32on79|8,7 7,6 
+n112x2n31on79|10,7 
+n112x2non29on79|9,7 6,7 
+n111x3non29on79|4,7 5,7 
+n109onx3non29on79|9,7 5,7 
+n109onx4on29on79|5,7 
+n109o2x4on29on79|8,8 8,6 7,8 
+n109o2x4on11xn17on79|10,8 
+n109o2x4on11xn2on14on79|10,5 
+n85xn23o2x4on11xn2on14on79|10,10 
+n85xn23o2x4on11xn2on14on14on64|10,6 
+n85xn14xn8o2x4on11xn2on14on14on64|10,11 
+n112xon26xn84|8,6 
+n98on13xon26xn84|6,8 
+n98on13xon12xn13xn84|4,10 
+n98on13xon12xn13xn13on70|8,8 
+n98on13xon12xnxn11xn13on70|7,8 
+n98on13xon12xoxn11xn13on70|6,6 
+n96xnon13xon12xoxn11xn13on70|5,5 9,9 
+n80on15xnon13xon12xoxn11xn13on70|9,9 
+n80on15xnon13xon12xoxn11xn3xn9on70|10,10 
+n80on15xnon13xon12xoxn11xn3xn9on5on64|6,7 
+n80on15xnon12x2on12xoxn11xn3xn9on5on64|6,9 
+n80on15xnon12x2on12xoxn11xon2xn9on5on64|6,5 
+n80oxn14xnon12x2on12xoxn11xon2xn9on5on64|6,4 
+n66on13oxn14xnon12x2on12xoxn11xon2xn9on5on64|5,10 
+n66on13oxn14xnon12x2on12xoxn11xon2xn9oxn4on64|9,6 
+n66on13oxn14xno2n11x2on12xoxn11xon2xn9oxn4on64|10,5 
+n66on13oxn3xn10xno2n11x2on12xoxn11xon2xn9oxn4on64|7,5 
+n66on13oxon2xn10xno2n11x2on12xoxn11xon2xn9oxn4on64|9,7 
+n66on13oxon2xn10xno2n11x2oxn11xoxn11xon2xn9oxn4on64|5,3 
+n50on15on13oxon2xn10xno2n11x2oxn11xoxn11xon2xn9oxn4on64|4,2 
+n34xn15on15on13oxon2xn10xno2n11x2oxn11xoxn11xon2xn9oxn4on64|5,4 
+n34xn15on14o2n13oxon2xn10xno2n11x2oxn11xoxn11xon2xn9oxn4on64|5,7 
+n34xn15on14o2n13oxon2xn10xno2n10x3oxn11xoxn11xon2xn9oxn4on64|5,2 
+n34xon14on14o2n13oxon2xn10xno2n10x3oxn11xoxn11xon2xn9oxn4on64|5,6 
+n34xon14on14o2n13oxon2xn9x2no2n10x3oxn11xoxn11xon2xn9oxn4on64|5,1 
+n98on13xn31xn80|8,8 
+n98on13xn15on15xn80|8,7 
+n98on13x2n14on15xn80|9,7 
+n98on13x2on13on15xn80|7,9 
+n98on13x2on13on13xnxn80|7,5 
+n82on15on13x2on13on13xnxn80|10,8 
+n82on15on13x2on13onxn11xnxn80|6,4 
+n66on15on15on13x2on13onxn11xnxn80|5,3 
+n50xn15on15on15on13x2on13onxn11xnxn80|10,6 
+n50xn15on15on15onon11x2on13onxn11xnxn80|11,5 
+n50xn15on15on3xn11onon11x2on13onxn11xnxn80|9,6 
+n50xn15on15on3xn11o3n11x2on13onxn11xnxn80|12,6 
+n50xn15on15on3xn11o3nxn9x2on13onxn11xnxn80|7,6 
+n50xn15on15on3xn10o4nxn9x2on13onxn11xnxn80|11,6 6,6 
+n50xn15on15on3xn10o4x2n9x2on13onxn11xnxn80|6,6 
+n112xn31on80|8,7 8,6 7,8 7,6 6,8 6,7 
+n111x2n31on80|9,7 
+n111x2non29on80|8,7 5,7 
+n110x3non29on80|4,7 
+n109ox3non29on80|6,8 
+n109ox3non11xn17on80|9,8 
+n109ox3non11xn2on14on80|9,5 
+n84xn24ox3non11xn2on14on80|9,10 
+n84xn24ox3non11xn2on14on14on65|9,6 
+n84xn14xn9ox3non11xn2on14on14on65|9,11 
+n82xn29xn13on98|7,8 7,9 
+n82xn29xn13o2n97|7,6 
+n82xn14xn14xn13o2n97|7,4 
+n67on14xn14xn14xn13o2n97|6,6 
+n67on14xn13x2n14xn13o2n97|8,8 
+n67on14xn13x2n14xn13o3n96|4,8 
+n67on14xn13x2n14xn11xno3n96|9,8 
+n67on14xn13x2n14xn11xno4n95|5,8 
+n67on14xn13x2n14xn11x2o4n95|10,8 
+n112xn42on69|8,7 7,8 
+n112x2n41on69|6,7 9,7 10,7 
+n112x2non39on69|9,7 6,7 
+n111x3non39on69|4,7 
+n109onx3non39on69|5,7 
+n109ox4non39on69|9,7 
+n109ox4o2n39on69|7,6 6,8 6,6 
+n97xn11ox4o2n39on69|9,8 
+n97xn11ox4o2n13on25on69|7,8 
+n97xn11ox4o2n11xnon25on69|7,10 
+n97xn11ox4o2n11xnon25onon67|7,5 
+n82xn14xn11ox4o2n11xnon25onon67|7,9 
+n82xn14xn11ox4o2n11xnon12on12onon67|7,4 
+n111x2n42on69|4,7 9,7 
+n111x2non40on69|8,7 5,7 
+n111x3on40on69|4,7 
+n109onx3on40on69|7,6 
+n97xn11onx3on40on69|4,9 5,8 
+n97xn11onx3on10on29on69|7,8 
+n97xn11onx3on10onxn27on69|7,10 
+n97xn11onx3on10onxn27onon67|7,5 
+n82xn14xn11onx3on10onxn27onon67|7,9 
+n82xn14xn11onx3on10onxn14on12onon67|7,4 
+n112xn14onxn95|8,7 
+n112xon13onxn95|9,6 
+n99xn12xon13onxn95|6,9 
+n99xn12xon13onxn11on83|5,10 
+n99xn12xon13onxn11on13xn69|8,9 
+n99xn12xon13onxn11onon11xn69|9,7 
+n99xn12xoxn12onxn11onon11xn69|9,10 
+n99xn12xoxn12onxn11onon11xn3on65|9,5 
+n84xn14xn12xoxn12onxn11onon11xn3on65|9,9 
+n84xn14xn12xoxn12onxn11ono2n10xn3on65|9,4 
+n84onxn25xn112|10,6 
+n84onxn13on11xn112|11,7 10,4 8,4 
+n68xn15onxn13on11xn112|11,7 
+n68xn15onxn13on11xn3on108|13,9 12,8 
+n68xn15onxn13on11xn3on15xn92|9,6 
+n68xn15onxn12o2n11xn3on15xn92|9,3 6,6 
+n68xn15onxn9xn2o2n11xn3on15xn92|11,6 
+n68xn15onxn9xn2o3n10xn3on15xn92|7,6 
+n68xn15onxn9x2no3n10xn3on15xn92|12,6 
+n68xn15onxn9x2no4n9xn3on15xn92|8,6 
+n68xn15onxn9x3o4n9xn3on15xn92|13,6 
+n111x2n16on95|8,7 9,7 10,7 
+n111x2non14on95|8,7 
+n111x3on14on95|4,7 5,7 
+n109onx3on14on95|7,8 
+n109onx3on12xnon95|9,6 
+n99on9onx3on12xnon95|9,10 
+n99on9onx3on12xnon29xn65|9,5 
+n84on14on9onx3on12xnon29xn65|9,9 
+n84on14on9onx3on12xnon14xn14xn65|9,4 
+n112xn30on81|8,8 8,7 8,6 7,8 6,7 
+n112x2n29on81|6,7 10,7 
+n112x2non27on81|9,8 6,7 
+n111x3non27on81|4,7 5,7 
+n109onx3non27on81|9,7 5,7 
+n109onx4on27on81|5,7 
+n109o2x4on27on81|9,8 
+n109o2x4on13xn13on81|10,9 
+n109o2x4on13xn13onon79|9,9 
+n109o2x4on13xn13oxon79|9,10 
+n109o2x4on13xn13oxon13on65|9,6 
+n99xn9o2x4on13xn13oxon13on65|9,5 
+n84on14xn9o2x4on13xn13oxon13on65|8,8 
+n84on14xn9o2x4on12x2n13oxon13on65|10,10 
+n84on14xn9o2x4on12x2n13oxon13o2n64|10,8 
+n84on14xn9o2x4on12x3n12oxon13o2n64|11,8 
+n84on14xn9o2x4on12x3on11oxon13o2n64|7,8 
+n84on14xn9o2x4on11x4on11oxon13o2n64|6,8 
+n84on14xn9o2x4on10ox4on11oxon13o2n64|6,9 
+n84on14xn9o2x4on10ox4on9xnoxon13o2n64|10,5 
+n84o2n13xn9o2x4on10ox4on9xnoxon13o2n64|5,10 
+n112xn13on31xn66|6,7 7,8 
+n111oxn13on31xn66|6,6 
+n96xn14oxn13on31xn66|6,9 
+n96xn14oxn13on14on16xn66|6,10 
+n96xn14oxn13on14on14xnxn66|7,8 
+n96xn14oxn13o2n13on14xnxn66|8,8 
+n96xn14oxn13o2xn12on14xnxn66|10,10 
+n96xn14oxn13o2xn12on14xnxnon64|5,5 
+n80xn15xn14oxn13o2xn12on14xnxnon64|9,9 
+n80xn15xn14oxn13o2xn12on2on11xnxnon64|4,4 
+n64xn31on15xn112|5,7 6,7 7,5 7,6 
+n64xn31on14oxn112|6,8 
+n64xn31on14oxn13xn98|6,5 
+n64xn16on14on14oxn13xn98|6,4 
+n64xnxn14on14on14oxn13xn98|7,6 
+n64xnxn14on14o2n13oxn13xn98|8,6 
+n64xnxn14on14o2xn12oxn13xn98|4,10 5,9 
+n64xnxn14on14o2xn12oxn13xn13on84|9,5 
+n64xnxn14on2xn11o2xn12oxn13xn13on84|10,4 
+n64xnxn3on10on2xn11o2xn12oxn13xn13on84|5,4 
+n64x3n3on10on2xn11o2xn12oxn13xn13on84|8,4 
+n64x3nonon10on2xn11o2xn12oxn13xn13on84|3,4 
+n63x4nonon10on2xn11o2xn12oxn13xn13on84|7,4 
+n63x4o2non10on2xn11o2xn12oxn13xn13on84|2,4 
+n112xnon110|8,8 8,6 
+n112xnon13xn96|9,9 
+n112xnon13xn15on80|9,8 
+n112xnon13x2n14on80|10,8 
+n112xnon13x2on13on80|7,8 
+n112xnon12x3on13on80|6,8 
+n112xnon11ox3on13on80|7,9 7,6 
+n112xnon11ox3on11xnon80|7,5 
+n82on29xnon11ox3on11xnon80|7,10 
+n82on29xnon11ox3on11xnon12xn67|7,11 
+n82on29xnon11ox3on11xnon12xn14on52|7,6 
+n112xn15on13xn82|7,8 
+n112xn14o2n13xn82|6,8 
+n112xn13xo2n13xn82|9,8 
+n112xn13xo3n12xn82|10,8 
+n112xn13xo3xn11xn82|8,7 8,9 
+n112xon12xo3xn11xn82|8,10 8,6 
+n112xon12xo3xn11xn15xn66|5,7 
+n110onxon12xo3xn11xn15xn66|9,11 
+n110onxon12xo3xn11xn15xn15xn50|10,12 
+n110onxon12xo3xn11xn15xn15xn15on34|8,6 
+n98xn11onxon12xo3xn11xn15xn15xn15on34|5,9 
+n98xn11onxon12xo3xn9onxn15xn15xn15on34|9,5 
+n84xn13xn11onxon12xo3xn9onxn15xn15xn15on34|10,4 
+n97xn127|5,4 5,6 5,8 6,5 6,6 6,7 7,4 7,5 7,7 7,8 8,5 8,6 8,7 9,4 9,6 9,8 
+n97x2n12on113|5,6 6,6 
+n81xn14ox2n12on113|6,8 
+n81xn14ox2n12on14on14xn83|5,7 
+n81xn14ox2n10xo2n14on14xn83|4,8 
+n81x2n13ox2n10xo2n12onon14xn83|3,9 
+n81x2n13ox2n10xo2n12onon11on2xn10xn72|5,8 
+n81x2n13ox2n10xo2n12o3xn10on2xn10xn72|7,7 
+n80x3n13ox2n10xo3n11o3xn10on2xn10xn72|8,7 
+n84xn12xn2on124|9,7 10,5 
+n97xn13xn27on85|8,5 9,4 
+n69on27x2n12xn27on85|9,6 
+n69on27x2on11xnxn25on85|9,5 
+n69on14on12x2on11xnx2n24on85|9,3 
+n39xn14on14on14on12x2on11xnx2n24on85|7,7 
+n39xn14on14on12xnon12x2on11xox2n24on85|10,8 
+n39xn14on11xn2on12xnon12x2on11xox2n15on8on85|5,3 
+n39xn10on3on11xn2on12xnon11x3on11xox2n15on8on85|6,5 
+n97x2n15on110|9,6 10,6 
+n84xn12x2on14on110|9,8 
+n84xn12x2on14on14on14xn80|10,7 
+n84xn12x2on14o2n13on13x2n80|8,7 
+n84xn12x2on13o3n13on13x3n79|7,7 
+n97x2n14on111|9,6 
+n85xn11x2on13on111|7,8 
+n85xn11x2on13on13on13xn83|9,7 
+n82xn2xn11x2on13o2n12on13xn83|10,7 
+n67xn14xn2xn11x2on13o3n11on13xn83|7,7 
+n52xn14xn14xn2xn11x2on12o4n11on13xn83|6,7 
+n52x2n13xn14xn2xn11x2on11o5n11on13xn83|5,7 
+n112xo2n12xn97|7,9 7,6 
+n97xn14xo3n11xn97|7,9 7,5 
+n82xn14xn14xo4n10xn97|7,4 
+n98xon12xn112|9,5 
+n84on12x2on12xn112|9,7 
+n84on11x3on12xnon110|9,4 9,8 
+n69on11xn2on11x3on12xnon110|9,3 
+n84on12x2on12xnon110|9,9 9,8 9,4 
+n98on13xon41xn69|8,8 
+n98o2n12xon14xn26xn69|6,6 
+n96xno2n12xo2n13xn26xn69|9,9 
+n96xno2n12xo3n12xn15xn10xn69|5,5 
+n56xn55xo2n110|9,5 
+n56xn27xn27xo2n14on95|8,6 
+n56xn27xn13xn13xo2n14on14on80|10,4 
+n98xn126|6,4 6,6 6,8 7,5 7,6 7,7 8,4 8,5 8,7 8,8 9,5 9,6 9,7 10,4 10,6 10,8 
+n70on27x2n125|10,6 
+n70on27x2on13xn110|10,5 
+n70on14on12x2on12x2n110|10,7 
+n70on14on12x2on12x2on11xn97|10,3 
+n55on14on14on12x2on12x2on11x2n96|10,2 
+n95onxn14xn112|7,4 7,8 
+n67on27onxn14xn14xn97|7,9 7,10 
+n67on27onxn14x2n13xn14on82|6,5 
+n67on13on13onxn14x2n13x2n13on82|4,7 
+n67on13on13onxn11on2x2n13x3n12on82|8,3 
+n97x2n45on80|5,6 10,6 
+n95onx3n44on80|10,6 
+n95onx3on11xn31on80|9,5 
+n84on10onx3on11x2n30on80|11,7 
+n84on10onx3on11x3non27on80|8,4 
+n68on15on10onx3on11x3non11xn15on80|7,3 
+n99on12x3n40on69|10,7 
+n99on11x4on39on69|5,7 
+n97xnon10ox4on39on69|8,5 
+n67xn15on13xnon10ox4on39on69|7,5 
+n67xn13xo2n13xnon10ox4on39on69|11,8 
+n67xn13xo2n13xnon10ox4on15on15xn7on69|9,8 10,9 
+n65xnxn13xo2n13xnon10ox4on15on13onxn7on69|9,8 
+n98x2n58on66|11,4 11,8 
+n97x3n31on26on66|11,4 12,9 13,10 
+n95xnx3n31on26on4on61|11,12 
+n97x2n11on114|4,6 5,6 6,6 
+n96ox2n11onxn112|7,5 
+n82on13ox2n11onxn11xn100|8,4 
+n54xn13on13on13ox2n11onxn11xn100|6,8 9,5 
+n54xn13on13onon11ox2nxn9onxn11xn100|8,5 
+n54xn13on13o3xn10ox2nxn9onxn11xn100|6,5 
+n54xn13on11xo4xn10ox2nxn9onxn11xn100|6,4 
+n51xn2xn11onon11xo4xn10ox2nxn9onxn11xn100|6,7 
+n51xn2xn11onon11xo4xn10ox2nxn9o2xn11xnxn98|7,4 
+n51xn2xn11o3xn10xo4xn10ox2nxn9o2xn11xnxn98|5,4 
+n51xn2xn9xo4xn10xo4xn10ox2nxn9o2xn11xnxn98|8,3 
+n39xn11xnoxn9xo4xn10xo4xn10ox2nxn9o2xn11xnxn98|5,6 
+n39xn11xnoxn9xo4xn10xo4xn9o2x2nxn8xo2xn11xnxn98|8,2 
+n23xn14oxn11xnoxn9xo4xn10xo4xn9o2x2nxn8xo2xn11xnxn98|5,9 
+n23x2n13oxn11xnoxn9xo4xn10xo4xn9o2x2nxn8xo2xn11xnxn13on84|9,0 
+n9on13x2n13oxn11xnoxn9xo4xn10xo4xn9o2x2nxn8xo2xn11x3n13on84|7,8 
+n9on13x2n13oxn11xnoxn9xo4xn9x2o4xn9o2x2nxn8xo2xn11x3on12on84|4,6 
+n9on13x2n13oxn11xnoxn9xo4xn9x2o4xn8o3x4n8xo2xn11x3on12on84|11,6 
+n9on13x2n13oxn11xnoxn9xo4xnxn7x2o4xn8o3x4on7xo2xn11x3on12on84|3,6 
+n9on13x2n13oxn11xnoxn9xo4xnxn7x2o4xn6xo4x4on7xo2xn11x3on12on84|8,9 
+n9on13x2n13oxn11xnoxn9xo4xnxn7x2o4xn6xo4x4on7xo2xn11x3on12on2on15xn65|3,8 
+n9on13x2n13oxn11xnoxn2xn6xo4xnxn7x2o4xn6xo4x4on7xo2xn10ox3on12on2on15xn65|8,7 
+n67on30xn14xn111|8,4 8,5 
+n67on15on14xn14xn14xn96|8,9 8,10 
+n67on15on14xn14xn14xn14xn14on66|9,6 
+n67on15on14xon13xn13x2n14xn14on66|10,7 
+n67on15on14xon12x2non11x2n14xn14on66|6,3 
+n112x2n30on80|9,7 
+n111x3on29on80|4,7 5,7 
+n110ox3on11xn17on80|9,8 
+n110ox3on11x2non14on80|9,6 9,10 
+n99on10ox3on11x2non12xnon80|9,5 
+n112x2n15on95|9,7 10,7 
+n112x2on13xon95|9,9 
+n112x2on12x2on14on80|9,6 
+n99on12x2on12x2on13xon80|9,5 
+n112xo2n26xn83|6,8 
+n112xo2n11xnon12xn83|8,6 
+n98xn13xo2n11xno2n11xn83|9,5 
+n84xn13xn13xo2n11xno2n11xnon81|10,4 
+n34on63x2n125|6,6 7,6 10,6 
+n34on62ox2n13xn111|8,5 
+n34on48on13ox2n13x2n110|6,7 9,4 
+n34on34on13on13ox2n13x2n14xn95|6,7 
+n34on34on13on13ox2n11ox3n14xn95|10,3 
+n113xn111|6,5 6,7 6,9 7,6 7,7 7,8 8,5 8,6 8,8 8,9 9,6 9,7 9,8 10,5 10,7 10,9 
+n99on13xn14xn96|8,5 8,6 
+n98o2n13xn14x2n95|7,6 
+n97o3n13xn14x2n14xn80|6,6 
+n96o4n13xn14x2n13x2n80|5,6 
+n111x3n30on13on66|9,7 
+n111x3on11xn17on13on66|5,7 
+n110ox3on11xnxn15on13on66|10,8 
+n110ox3on11x3non13on13on66|7,11 
+n110ox3on11x3non11xnon13on13on52|11,7 
+n96xn128|4,4 4,6 4,8 5,5 5,6 5,7 6,4 6,5 6,7 6,8 7,5 7,6 7,7 8,4 8,6 8,8 
+n81on14x2n127|5,6 
+n81on13ox2n14xn112|7,4 
+n67on13on13ox2n13x2n112|4,7 
+n67on13on13ox2n11ox3n112|8,3 
+n112xon12on17xn80|8,8 
+n111oxon12onxn15xn80|6,6 
+n96xon13oxon12onxn15xn80|5,5 

@@ -28,7 +28,7 @@ def main():
 
     def clicked():
         print("asdasdasd")
-        run(1)
+        run(1, danhtruoc=danhtruoc)
     # root.attributes('-alpha', 0.0)
     # menubar = tkinter.Menu(root)
     # filemenu = tkinter.Menu(menubar, tearoff=0)
