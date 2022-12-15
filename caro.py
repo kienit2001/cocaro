@@ -87,6 +87,7 @@ class caro:
             self.sc = pygame.display.set_mode((1100,700))
         self.run = True
         self.vsbot = False
+        self.thang = True
         self.show_affect = False
         self.time_load = pygame.time.get_ticks()
         self.reset()
@@ -103,6 +104,7 @@ class caro:
         self.L_undo_affect = []
         self.L_undo_gh = []
         self.L_affect = []
+        self.thang = True
         self.trai = None
         self.phai = None
         self.tren = None
@@ -165,6 +167,8 @@ class caro:
             else:
                 self.sc.blit(img_luot[self.xo],vt_img_luot[self.xo])
         else:
+            print("aaaaaaaaaaaa_--",self.result)
+            self.thang = False
             self.sc.blit(img_win[self.result],vt_img_win[self.result])
     def draw_khung_tg(self):
         pygame.draw.rect(self.sc,(0, 51, 102),(700 - int(0.06*self.kc_cell),200,300 + int(0.06*self.kc_cell),200),width = int(0.06*self.kc_cell),border_radius = 5)
@@ -224,7 +228,7 @@ class caro:
         self.draw_khung_logo()
         pygame.display.update()
     def botmove(self,x,y):
-        if self.result == 0 and 0 <= x < self.r and 0 <= y < self.c and self.diagram[y][x] == 0:
+        if self.thang and 0 <= x < self.r and 0 <= y < self.c and self.diagram[y][x] == 0:
             if self.xo:
                 self.diagram[y][x] = 1
             else:
@@ -285,7 +289,7 @@ class caro:
                 pygame.quit()
                 return
             if e.type == pygame.MOUSEBUTTONDOWN:
-                if self.result == 0 and not self.vsbot or self.xo:
+                if self.thang and (not self.vsbot or self.xo):
                     x,y = pygame.mouse.get_pos()
                     x,y = x//self.kc_cell,y//self.kc_cell
                     if 0 <= x < self.r and 0 <= y < self.c and self.diagram[y][x] == 0:

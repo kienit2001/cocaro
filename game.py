@@ -13,8 +13,8 @@ cr_main = caro(15, 15)
 cr_chayngam = caro(cr_main.r,cr_main.c)
 
 
-def minimax(cr, chieusau, b_max, root, alpha):
-    L = sapxep(cr)
+def minimax(cr, chieusau, b_max, root, alpha,quan):
+    L = sapxep(cr,quan)
     cr_main.cho()
     # print(L)
     if root:
@@ -29,7 +29,8 @@ def minimax(cr, chieusau, b_max, root, alpha):
             if chieusau != 1:
                 x,y = toando
                 cr.botmove(x,y)
-                nhanh = minimax(cr, chieusau - 1, not b_max, False,None if kq == None else kq -1 if b_max else kq+1)
+                nhanh = minimax(cr, chieusau - 1, not b_max, False, None if kq == None else kq - 1 if b_max else kq + 1,
+                                quan)
                 cr.undo()
             else:
                 nhanh = diem
@@ -53,7 +54,7 @@ def minimax(cr, chieusau, b_max, root, alpha):
             if chieusau != 1:
                 x, y = toando
                 cr.botmove(x, y)
-                nhanh = minimax(cr, chieusau - 1, not b_max, False, kq)
+                nhanh = minimax(cr, chieusau - 1, not b_max, False, kq, quan)
                 cr.undo()
             else:
                 return diem
@@ -72,7 +73,7 @@ def minimax(cr, chieusau, b_max, root, alpha):
 
 
 
-def maydi(dothongminh):
+def maydi(dothongminh,danh):
     if cr_main.lay_gh()[0] == None:
         x,y = cr_main.r//2,cr_main.c//2
     else:
@@ -85,7 +86,7 @@ def maydi(dothongminh):
             cr_chayngam.nap_diagram(cr_main.diagram,cr_main.xo)
             # print(cr_main.xo)
             #cr_chayngam.chay()
-            L = minimax(cr_chayngam,dothongminh,cr_chayngam.xo,True,None)
+            L = minimax(cr_chayngam, dothongminh, cr_chayngam.xo, True, None, danh)
             D_weight[hinhco] = L
             ghi_weight(hinhco,L,dothongminh)
         print("nhung nuoc di toi uu", L)
@@ -95,22 +96,27 @@ def maydi(dothongminh):
 
 #napbanco(
 #xo = doi_caroxo(cr.xo)
-def danhvoiamy(cap):
+def danhvoiamy(cap,danhvoimay):
     cr_main.run = True
+    cr_main.reset()
     while cr_main.chay():
         #print("--------------------------",doi_caroxo(cr.xo))
-        if cr_main.chay() == 100000:
+        if cr_main.chay() == 100000 or cr_main.chay() == -100000:
             break
-        if doi_caroxo(cr_main.xo) == 1:
-            if cr_main.result == 0:
-                maydi(cap)
+        print("-----------------", cr_main.result)
+
+        if cr_main.thang:
+            if doi_caroxo(cr_main.xo) == danhvoimay:
+                print("-----------------",cr_main.result)
+                maydi(cap, danhvoimay)
+
 
 def maytudanh(cap):
     while cr_main.chay():
         # print("--------------------------",doi_caroxo(cr.xo))
         if cr_main.result != 0:
                  cr_main.reset()
-        maydi(cap)
+        maydi(cap, 1)
 
 def choi2nguoi():
     while cr_main.chay():

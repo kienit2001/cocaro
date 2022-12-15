@@ -1,6 +1,6 @@
 from tinhdiem import tinhdiem,doi_caroxo
 
-def sapxep(cr):
+def sapxep(cr,quan):
     L_nuoc_di =  cr.lay_L_nuoc_di()
     L_ket_qua = []
     for x,y in L_nuoc_di:
