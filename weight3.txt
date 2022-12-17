@@ -71,3 +71,52 @@ n95xn13xo2x2n9ox3on11xo2xon11on3xn9o2n12xn41|4,6
 n94oxn13xo2x2n9ox3oxn10xo2xon11on3xn9o2n12xn41|6,11 
 n94oxn13xo2x2n9ox3oxn10xo2xon11on3xn9o3xn10xn41|5,12 
 n94oxn13xo2x2n9ox3oxn10xo2xon11on3xn9o3xn10xnon14xn24|7,10 
+n82xn142|6,4 6,6 8,4 8,6 
+n82xn13oxn127|7,7 
+n82xn13oxn13xon112|5,5 
+n97xn127|6,5 6,7 8,5 8,7 
+n97xn14xon111|7,8 
+n97xn14xon13on13xn83|8,8 
+n97xn14xon12xo2n12xn83|8,6 
+n83xn13xon13xon12xo2n12xn83|8,9 
+n83xn13xon13xon12xo2n12xnon14xn66|6,7 
+n83xn13xon12oxon12xo2n12xnon14x2n65|7,9 
+n83xn13xon12oxoxn11xo2n12xo2n14x2n65|7,10 
+n83xn13xon12oxoxn11xo2xn11xo2n13ox2n65|9,9 
+n83xn13xon12oxox2n10xo2xn11xo3n12ox2n65|9,6 
+n83xnxn11xo2n11oxox2n10xo2xn11xo3n12ox2n65|7,11 
+n83xnxn11xo2n11oxox2n10xo2xn11xo3n12ox2n12on14xn37|5,6 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo3n12ox2n12on14xn37|6,11 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo3n12ox2n11o2n12xnxn37|8,11 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo3n12ox2n10xo3n11xnxn37|10,9 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo4xn10ox2n10xo3n11xnxn37|10,11 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo4xn10ox2n10xo3xon9xnxn37|10,10 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo4xn10ox2on9xo3xon9xnxn2xn34|11,11 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo4xn10ox2on9xo3xo2n8xnxn2xnxn32|9,12 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn11xo4xn8xnox2on9xo3xo2n8xnxnoxnxn32|5,9 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn10oxo4xn7x2nox2on9xo3xo2n8xnxnoxnxn32|11,10 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn10oxo4xn7x2nox2o2n8xo3xo2n8xnxnoxnxn10xn21|6,10 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn10oxo4xn7x2o2x2o2n8xo3xo2n8xnx2oxnxn10xn21|13,8 
+n79xn3xnxn9onxo2n11oxox2n10xo2xn3on6oxo4x2n6x2o2x2o2n8xo3xo2n8xnx2oxnxn10xn21|4,8 
+n79xn3xnxn9onxo2n8xn2oxox2n8onxo2xn3on6oxo4x2n6x2o2x2o2n8xo3xo2n8xnx2oxnxn10xn21|6,12 
+n112xn13on98|8,8 6,6 
+n96xn15xn13onon96|5,7 
+n82on13xn13xnxn13onon96|6,7 
+n82on13xn13x3on12onon96|4,8 
+n82on13xn12ox3on10xnonon96|8,6 
+n82on13xoxn10ox3on10xnonon96|6,5 
+n81xon13xoxn10ox3on10xno3n96|6,4 3,9 2,10 
+n81xon13xoxn10ox3on10xno3n9xn13on72|9,8 
+n81xon13xoxon9ox3on10xno3xn8xn13on72|10,5 6,9 
+n81xon13xoxon9ox3on10xo4xn8xn2xn10on72|5,9 
+n81xon13xoxon9ox3on10xo4xn8xox2n10on72|6,10 
+n81xon13xoxon8o2x3on10xo4xn8xox2n10on3xn68|10,5 
+n81xon2xn10xoxon7o3x3on10xo4xn8xox2n10on3xn68|6,4 
+n51on14xn14xon2xn10xoxon7o3x3on10xo4xn8xox2n10on3xn68|7,11 8,12 
+n51on14xn14xon2xn10xoxon7o3x3on10xo4xn8xox2n10on3xn15xn15on36|8,9 7,9 
+n51on14xn14xon2xn10xoxon7o3x3on10xo4xn8xox2nxon7on3xn15xn15on36|6,11 
+n51on14xn14xon2xn10xoxon7o3x3on10xo4xn8xox2nxon7on3xon13x2n15on36|5,11 
+n51on14xn14xon2xn10xoxon7o3x3on10xo4xn8xox2nxon7on3xon11ox3n15on36|6,12 
+n51on14xn14xon2xn10xoxon7o3x3on10xo4xn8xox2nxon7on3xon11ox3n13xnon12on23|4,10 
+n51on14xn14xon2xn10xoxon6o4x3on10xo4xn8xox2nxon7onxnxon11ox3n13xnon12on23|2,8 
+n51on14xn14xon2xn10xoxon7o3x3on10xo4xn8xox2nxon7on3xon4on7x3n15on36|4,11 8,11 

@@ -167,7 +167,7 @@ class caro:
             else:
                 self.sc.blit(img_luot[self.xo],vt_img_luot[self.xo])
         else:
-            print("aaaaaaaaaaaa_--",self.result)
+            # print("aaaaaaaaaaaa_--",self.result)
             self.thang = False
             self.sc.blit(img_win[self.result],vt_img_win[self.result])
     def draw_khung_tg(self):
@@ -281,6 +281,7 @@ class caro:
                 self.L_undo_gh.pop(-1)
                 self.xo = not self.xo
                 self.result = 0
+                self.thang = True
             # print("Undo")
     def event(self):
         for e in pygame.event.get(): 
@@ -318,13 +319,13 @@ class caro:
                 print(spot)
                 print(750 + 200 + int(0.06*self.kc_cell),200+200 +int(0.06*self.kc_cell))
                 if 750 <= spot[0] <= 750 + 200 + int(0.06*self.kc_cell) and 450 <= spot[1] <= 500:
-                    print("asdsadas")
+                    # print("asdsadas")
                     caro.undo(self,2)
                 if 750 <= spot[0] <= 750 + 200 + int(0.06*self.kc_cell) and 520 <= spot[1] <= 570:
-                    print("asdsadas")
+                    # print("asdsadas")
                     caro.reset(self)
                 if 750 <= spot[0] <= 750 + 200 + int(0.06*self.kc_cell) and 590 <= spot[1] <= 640:
-                    print("asdsadas")
+                    # print("asdsadas")
                     self.run = False
     def checkresult_huong(self,x,y,xm,ym):
         x0, y0 = x,y

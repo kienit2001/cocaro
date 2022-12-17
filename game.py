@@ -103,11 +103,11 @@ def danhvoiamy(cap,danhvoimay):
         #print("--------------------------",doi_caroxo(cr.xo))
         if cr_main.chay() == 100000 or cr_main.chay() == -100000:
             break
-        print("-----------------", cr_main.result)
+        # print("-----------------", cr_main.result)
 
         if cr_main.thang:
             if doi_caroxo(cr_main.xo) == danhvoimay:
-                print("-----------------",cr_main.result)
+                # print("-----------------",cr_main.result)
                 maydi(cap, danhvoimay)
 
 
@@ -119,6 +119,8 @@ def maytudanh(cap):
         maydi(cap, 1)
 
 def choi2nguoi():
+    cr_main.run = True
+    cr_main.reset()
     while cr_main.chay():
         pass
 # vsmay = input("nhap 1 la danh voi may:")

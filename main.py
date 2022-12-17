@@ -1,8 +1,6 @@
 import pygame, sys
 from pygame.locals import *
 from game import danhvoiamy, maytudanh, choi2nguoi
-from capdo import choncapdo
-import test
 from caro import caro
 
 WINDOWWIDTH = 1000
@@ -46,9 +44,9 @@ leve = {
 
 
 leve_chon = {
-    1: font.render('Đang chọn Dễ', True, (0, 0, 0)),
-    2: font.render('Đang chọn Trung bình', True, (0, 0, 0)),
-    3: font.render('Đang chọn Khó', True, (0, 0, 0))
+    1: font.render('Đang chọn: Dễ', True, (0, 0, 0)),
+    2: font.render('Đang chọn: Trung bình', True, (0, 0, 0)),
+    3: font.render('Đang chọn: Khó', True, (0, 0, 0))
 }
 
 muc = 1
@@ -77,7 +75,7 @@ def menu1(muc,danhtruoc):
         DISPLAYSURF.blit(word[8], (toado[1] + 30, toado[2] + 70 * 3 + 15))
     elif danhtruoc == 2:
         pygame.draw.rect(DISPLAYSURF, (100, 0, 0), (toado[1], toado[2] + 70 * 3, 170, 50), border_radius=100)
-        DISPLAYSURF.blit(word[9], (toado[1] + 30, toado[2] + 70 * 3 + 15))
+        DISPLAYSURF.blit(word[9], (toado[1] + 15, toado[2] + 70 * 3 + 15))
 
 
 def menu2(muc):
@@ -129,24 +127,25 @@ def run(muc, menu=1,danhtruoc=1):
 
             if event.type == pygame.MOUSEBUTTONDOWN:  # 2
                 spot = event.pos  # 3
-                print(spot)
+                # print(spot)
                 if toado[1] <= spot[0] <= toado[1] + 170 and toado[2] <= spot[1] <= toado[2] + 50 and menu == 1:
                     danhvoiamy(muc,danhtruoc)
                     load_nen()
                     run(muc, 1, danhtruoc)
             if event.type == pygame.MOUSEBUTTONDOWN:  # 2
                 spot = event.pos  # 3
-                print(spot)
+                # print(spot)
                 if toado[1] <= spot[0] <= toado[1] + 170 and toado[2] + 70 <= spot[1] <= toado[2] + 50 + 70:
                     if menu == 1:
                         choi2nguoi()
+                        load_nen()
                         run(muc, 1, danhtruoc)
                     elif menu == 2:
                         run(1, 1, danhtruoc)
 
             if event.type == pygame.MOUSEBUTTONDOWN:  # 2
                 spot = event.pos  # 3
-                print(spot)
+                # print(spot)
                 if toado[1] <= spot[0] <= toado[1] + 170 and toado[2] + 70 * 2 <= spot[1] <= toado[2] + 50 + 70 * 2:
                     if menu == 1:
                         run(muc, 2, danhtruoc)
@@ -154,7 +153,7 @@ def run(muc, menu=1,danhtruoc=1):
                         run(2, 1, danhtruoc)
             if event.type == pygame.MOUSEBUTTONDOWN:  # 2
                 spot = event.pos  # 3
-                print(spot)
+                # print(spot)
                 if toado[1] <= spot[0] <= toado[1] + 170 and toado[2] + 70 * 3 <= spot[1] <= toado[2] + 50 + 70 * 3:
                     if menu == 1:
                         if danhtruoc == 1:
@@ -166,14 +165,15 @@ def run(muc, menu=1,danhtruoc=1):
                         run(3, 1, danhtruoc)
             if event.type == pygame.MOUSEBUTTONDOWN:  # 2
                 spot = event.pos  # 3
-                print(spot)
+                # print(spot)
                 if toado[1] <= spot[0] <= toado[1] + 170 and toado[2] + 70 * 4 <= spot[1] <= toado[2] + 50 + 70 * 4:
                     # maytudanh(muc)
                     # run(muc, 1)
-                    pass
+                    if menu == 2:
+                        run(muc, 1, danhtruoc)
             if event.type == pygame.MOUSEBUTTONDOWN:  # 2
                 spot = event.pos  # 3
-                print(spot)
+                # print(spot)
                 if toado[1] <= spot[0] <= toado[1] + 170 and toado[2] + 70 * 5 <= spot[1] <= toado[2] + 50 + 70 * 5:
                     pygame.quit()
 
