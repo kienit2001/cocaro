@@ -53,7 +53,7 @@ img_win = {
     3:fontnho.render("Hòa",True,(255,255,0)),
     4:fontbe.render('Quay lai', True, (255,255,0)),
     5:fontbe.render('Bắt đầu ván mới', True, (255,255,0)),
-    6:fontbe.render('thoát', True,(255,255,0)),
+    6:fontbe.render('Thoát', True,(255,255,0)),
 }
 
 vt_img_win = {
