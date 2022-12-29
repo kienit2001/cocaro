@@ -1,15 +1,33 @@
 n112xon111|8,8 8,6 7,8 7,6 
-n97on14xon13xn97|7,9 
-n97on14xon13xn14xn14on67|8,8 
-n97on14xon13x2on12xn14on67|6,5 5,4 
-n81xn14o2n14xon13x2on12xn14on67|11,10 10,9 
-n81xn14o2n14xon13x2on12xnoxn11on67|9,7 
-n81xn14o2n2on11xoxn12x2on12xnoxn11on67|6,10 
-n81xn14o2n2on11xoxn12x2on12xnoxn10xon12on54|6,8 
-n81xn14o2n2on11xoxn10ox3on12xnoxn10xon12on54|5,9 
-n81xn14o3non11xoxn10ox3on10xnxnoxn10xon12on54|9,6 
-n81xnon12o3xon11xoxn10ox3on10xnxnoxn10xon12on54|6,7 
-n68on12xnon12o3xon10x2oxn10ox3on10xnxnoxn10xon12on54|8,3 
-n53xn14on12xno2n11o3xon10x2oxn10ox3on10xnxnoxn10xon12on54|5,6 
-n53xn14on12xno2non8xo3xon10x2oxn10ox3on10xnxnoxn10xon12on54|8,9 
-n53xn14on12xno4n8xo3xon10x2oxn10ox3on10xnx2oxn10xon12on54|4,5 
+n84on13xn13xon111|6,8 
+n84on13xn13xon12xn13on84|6,6 
+n84on11xnxn12oxon12xn13on84|7,6 
+n84on11x3on11oxon12xn13on84|5,6 
+n84on9ox4on11oxon12xn13on84|7,8 
+n82onon9ox4on11oxon12x2n12on84|7,9 
+n82onon9ox4on11oxon12x2n12onxn14on67|8,8 
+n82onon9ox4on11oxon12x3on10onxn14on67|9,9 
+n112xon14xn15on80|6,6 
+n80on15xn15xon14xn15on80|6,8 
+n80o2n14xn15xon12xnxn15on80|7,8 
+n80o2n14xn15xon12x3on14on80|7,6 
+n80o3n13x2n14xon12x3on14on80|7,9 
+n80o3n13x2n14xon12x3on12xnon12on67|9,5 
+n80o3nxn11x2on13xon12x3on12xnon12on67|5,8 
+n80o3nxn11x2on13xon10ox4on12xnon12on67|6,7 
+n80o4xn11x2on12x2on10ox4on12xnon12on67|4,5 
+n79xo4xn10ox2on12x2on10ox4on12xnon12on67|6,10 
+n79xo4xn10ox2on12x2on10ox4on11oxnon11xon67|9,7 
+n82on14xn14xon111|7,8 
+n82on14xn14xon13xn14on82|6,7 
+n82on14xn13x2on13xon13on82|8,9 8,5 
+n82on12onxn13x2on13xon13oxn81|9,10 
+n82on12onxn13x2on13xon13oxn15xn15on49|8,5 
+n82oxn11onxn13x2on11onxon13oxn15xn15on49|9,4 
+n55on13xn12oxn11onxn13x2on11onxon13oxn15xn15on49|5,7 
+n55on13xn12oxn11onxon11x3on11onxon13oxn15xn15on49|4,7 
+n55on13xn12oxn11onxon9ox4on11onxon13oxn15xn15on49|9,7 
+n55on13xn12oxn11o2xon9ox4oxn10onxon13oxn15xn15on49|9,8 9,6 
+n55on13xn12oxn11o2xon9ox4oxn10onxoxn12oxon14xn15on49|9,6 
+n55on13xn12oxon10o2xoxn8ox4oxn10onxoxn12oxon14xn15on49|10,7 
+n55on11onxn12oxon10o2xoxn8ox4ox2n9onxoxn12oxon14xn15on49|7,10 

@@ -80,6 +80,8 @@ def maydi(dothongminh,danh):
         D_weight = doc_weight(dothongminh)
         hinhco = mahoa(cr_main)
         if hinhco in D_weight:
+            print(hinhco)
+            print(D_weight)
             print("da co hinh")
             L = D_weight[hinhco]
         else:
@@ -101,6 +103,9 @@ def danhvoiamy(cap,danhvoimay):
     cr_main.reset()
     while cr_main.chay():
         #print("--------------------------",doi_caroxo(cr.xo))
+        if not cr_main.canresset:
+            cr_main.reset()
+            cr_main.canresset = True
         if cr_main.chay() == 100000 or cr_main.chay() == -100000:
             break
         # print("-----------------", cr_main.result)
