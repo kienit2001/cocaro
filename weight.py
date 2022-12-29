@@ -6,6 +6,8 @@ def doc_weight(muc):
     L = []
     D = {}
     for i in data:
+        print(i)
+        L = []
         vt = i.find("|")
         key = i[:vt]
         L_nuoc_di = i[vt+1:].split()
@@ -14,6 +16,8 @@ def doc_weight(muc):
             x = int(move[:vt])
             y = int(move[vt+1:])
             L.append((x,y))
+        print(key)
+        print(L)
         D[key] = L
     return D
 

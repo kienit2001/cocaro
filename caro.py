@@ -91,6 +91,7 @@ class caro:
         self.show_affect = False
         self.time_load = pygame.time.get_ticks()
         self.reset()
+        self.canresset = True
     def reset(self):
         self.diagram = []
         for i in range(self.c):
@@ -324,6 +325,7 @@ class caro:
                 if 750 <= spot[0] <= 750 + 200 + int(0.06*self.kc_cell) and 520 <= spot[1] <= 570:
                     # print("asdsadas")
                     caro.reset(self)
+                    self.canresset = False
                 if 750 <= spot[0] <= 750 + 200 + int(0.06*self.kc_cell) and 590 <= spot[1] <= 640:
                     # print("asdsadas")
                     self.run = False
